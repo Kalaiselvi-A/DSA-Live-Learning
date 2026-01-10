@@ -29,6 +29,6 @@ java FileName
 ---
 
 ## 💡 Best Practices
-- Each Java file is self-contained
+- Each Java file is **self-contained**
 - Class name = File name to avoid compilation errors
-- Comments explain the logic, steps, and approach
+- Comments explain the **logic, steps, and approach**
