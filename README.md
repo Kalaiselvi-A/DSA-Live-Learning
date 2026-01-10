@@ -102,6 +102,8 @@ By completing this repository, learners will be able to:
 
 **Kalaiselvi A**  
 _Architect of Code & Solutions | Technical Trainer | TNSIF_  
-**Explore My Work:** [LinkedIn](https://www.linkedin.com/in/kalaiselvia/) | [GitHub](https://github.com/Kalaiselvi-A)
+
+**Explore My Work:** 
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/kalaiselvia/) | [Follow me on GitHub](https://github.com/Kalaiselvi-A)
 
 > _This repository is intended for educational purposes and professional skill development._
