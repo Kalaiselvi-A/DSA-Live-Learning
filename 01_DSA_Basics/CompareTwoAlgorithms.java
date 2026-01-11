@@ -19,7 +19,8 @@ public class CompareTwoAlgorithms {
         */
         if (algoA < algoB) {
             System.out.println("Algorithm A (O(n)) is faster");
-        } else {
+        } 
+        else {
             System.out.println("Algorithm B (O(n^2)) is faster");
         }
     }
